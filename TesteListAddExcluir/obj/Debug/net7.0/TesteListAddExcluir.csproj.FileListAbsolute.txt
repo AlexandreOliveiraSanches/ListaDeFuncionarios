@@ -1,0 +1,15 @@
+C:\codigos\projetos C#\TesteListAddExcluir\TesteListAddExcluir\bin\Debug\net7.0\TesteListAddExcluir.exe
+C:\codigos\projetos C#\TesteListAddExcluir\TesteListAddExcluir\bin\Debug\net7.0\TesteListAddExcluir.deps.json
+C:\codigos\projetos C#\TesteListAddExcluir\TesteListAddExcluir\bin\Debug\net7.0\TesteListAddExcluir.runtimeconfig.json
+C:\codigos\projetos C#\TesteListAddExcluir\TesteListAddExcluir\bin\Debug\net7.0\TesteListAddExcluir.dll
+C:\codigos\projetos C#\TesteListAddExcluir\TesteListAddExcluir\bin\Debug\net7.0\TesteListAddExcluir.pdb
+C:\codigos\projetos C#\TesteListAddExcluir\TesteListAddExcluir\obj\Debug\net7.0\TesteListAddExcluir.csproj.AssemblyReference.cache
+C:\codigos\projetos C#\TesteListAddExcluir\TesteListAddExcluir\obj\Debug\net7.0\TesteListAddExcluir.GeneratedMSBuildEditorConfig.editorconfig
+C:\codigos\projetos C#\TesteListAddExcluir\TesteListAddExcluir\obj\Debug\net7.0\TesteListAddExcluir.AssemblyInfoInputs.cache
+C:\codigos\projetos C#\TesteListAddExcluir\TesteListAddExcluir\obj\Debug\net7.0\TesteListAddExcluir.AssemblyInfo.cs
+C:\codigos\projetos C#\TesteListAddExcluir\TesteListAddExcluir\obj\Debug\net7.0\TesteListAddExcluir.csproj.CoreCompileInputs.cache
+C:\codigos\projetos C#\TesteListAddExcluir\TesteListAddExcluir\obj\Debug\net7.0\TesteListAddExcluir.dll
+C:\codigos\projetos C#\TesteListAddExcluir\TesteListAddExcluir\obj\Debug\net7.0\refint\TesteListAddExcluir.dll
+C:\codigos\projetos C#\TesteListAddExcluir\TesteListAddExcluir\obj\Debug\net7.0\TesteListAddExcluir.pdb
+C:\codigos\projetos C#\TesteListAddExcluir\TesteListAddExcluir\obj\Debug\net7.0\TesteListAddExcluir.genruntimeconfig.cache
+C:\codigos\projetos C#\TesteListAddExcluir\TesteListAddExcluir\obj\Debug\net7.0\ref\TesteListAddExcluir.dll
